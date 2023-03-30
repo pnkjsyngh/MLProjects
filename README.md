@@ -12,6 +12,9 @@ This project involves conducting an Exploratory Data Analysis (EDA) on [Cardio G
 - Covers Descriptive Statistics, Inferential Statistics and Probability Distributions
 - Demonstrates effective use of NumPy, Pandas and Seaborn libraries to generate custom visualizations which captures the essence of the dataset and delivers the key message.
 
+<h3> 2. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/LinearRegression/Project2.ipynb"><strong>Linear Regression</strong></a></h3>
+
+
 
 
 
