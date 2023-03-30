@@ -8,7 +8,7 @@ This project involves conducting an Exploratory Data Analysis (EDA) on [Cardio G
 - TM195 and TM498 are suitable for entry/intermediate level fitness equipment and can be marketed to a broader demographic, while TM798 is an advanced level fitness equipment targeting customers with high fitness levels and higher income.
 - There is an untapped market for advanced female users in TM798, and women-centered promotion for all three models can benefit sales.
 
-Skills gained
+#### Skills gained
 - Covers Descriptive Statistics, Inferential Statistics and Probability Distributions
 - Demonstrates effectiive use of NumPy, Pandas and Seaborn libraries to generate custom visualizations which captures the essence of the dataset and easily delivers the key message.
 
