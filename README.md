@@ -14,6 +14,9 @@ This project involves conducting an Exploratory Data Analysis (EDA) on [Cardio G
 
 <h3> 2. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/LinearRegression/Project2.ipynb"><strong>Linear Regression</strong></a></h3>
 
+The project involves developing a pricing model for used cars in the Indian market to help a tech start-up called Cars4U, which aims to find footholds in this market. The data set contains different attributes of used cars sold in various locations, including brand and model name, location, manufacturing year, kilometers driven, fuel type, transmission, ownership type, engine displacement, power, mileage, seats, new car price, and used car price. The project objective is to explore and visualize the dataset, build a linear regression model to predict the prices of used cars, and generate insights and recommendations to help the business. The project deliverables include a pricing model, linear regression predictions, and actionable insights and recommendations. 
+
+The learning objectives include exploratory data analysis, data pre-processing, and linear regression model building and evaluation.
 
 
 
