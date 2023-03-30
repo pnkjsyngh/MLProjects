@@ -10,7 +10,7 @@ This project involves conducting an Exploratory Data Analysis (EDA) on [Cardio G
 
 #### Skills gained
 - Covers Descriptive Statistics, Inferential Statistics and Probability Distributions
-- Demonstrates effectiive use of NumPy, Pandas and Seaborn libraries to generate custom visualizations which captures the essence of the dataset and easily delivers the key message.
+- Demonstrates effective use of NumPy, Pandas and Seaborn libraries to generate custom visualizations which captures the essence of the dataset and delivers the key message.
 
 
 
