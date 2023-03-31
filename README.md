@@ -13,9 +13,5 @@ This project involves conducting an **Exploratory Data Analysis (EDA)** on [Card
 The project involves developing a pricing model for used cars in the Indian market to help a tech start-up called Cars4U, which aims to find footholds in this market. The [data set](https://www.kaggle.com/datasets/sukhmanibedi/cars4u) contains different attributes of used cars sold in various locations, including brand and model name, location, manufacturing year, kilometers driven, fuel type, transmission, ownership type, engine displacement, power, mileage, seats, new car price, and used car price. The project objective is to **explore and visualize the dataset**, build a **linear regression model** to predict the prices of used cars, and generate insights and recommendations to help the business. The project deliverables include a pricing model, linear regression predictions, and actionable insights and recommendations. 
 
 #### Skills gained
-- **Exploratory Data Analysis**, **data pre-processing**, **linear regression**, **model building and evaluation**, **feature selection**
-
-
-
-
-
+- **EDA**, **data pre-processing**, **linear regression**, **model building and evaluation**, **feature selection**
+- Tested different version of linear regression with feature modifications and selection using [SFS](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SequentialFeatureSelector.html)
