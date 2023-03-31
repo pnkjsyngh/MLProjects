@@ -15,3 +15,9 @@ The project involves developing a pricing model for used cars in the Indian mark
 #### Skills gained
 - **EDA**, **data pre-processing**, **linear regression**, **model building and evaluation**, **feature selection**
 - Tested different version of linear regression with feature modifications and selection using [SFS](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SequentialFeatureSelector.html)
+Metric | Lin Reg sklearn	| Lin Reg sklearn w/ log ftrs	| Lin Reg sklearn w/ log ftrs and seats as cat	| Lin Reg sklearn w/ log, seats as cat and SFS ftrs|
+
+RMSE	4.777414	4.141068	3.973063	4.028353
+MAE	2.739404	1.853221	1.804374	1.814495
+R-squared	0.807807	0.855597	0.867077	0.863351
+Adj. R-squared	0.801880	0.851144	0.862506	0.860175
