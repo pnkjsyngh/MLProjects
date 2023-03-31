@@ -16,8 +16,8 @@ The project involves developing a pricing model for used cars in the Indian mark
 - **EDA**, **data pre-processing**, **linear regression**, **model building and evaluation**, **feature selection**
 - Tested different version of linear regression with feature modifications and selection using [SFS](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SequentialFeatureSelector.html)
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| Metrics       | Lin Reg       | Lin Reg with log features | 
+|:-------------:|:-------------:|:-----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
