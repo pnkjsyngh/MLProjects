@@ -15,10 +15,18 @@ The project involves developing a pricing model for used cars in the Indian mark
 #### Skills gained
 - **EDA**, **data pre-processing**, **linear regression**, **model building and evaluation**, **feature selection**
 - Tested different version of linear regression with feature modifications and selection using [SFS](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SequentialFeatureSelector.html)
+- Delivered the model with features selected using SFS as the most accurate model based on the performance metrics shown below.
+
+| Metrics       | Lin Reg       | Lin Reg with log features | Lin Reg with log features using [SFS](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SequentialFeatureSelector.html)|
 |:-------------:|:-------------:|:-------------------------:|:----------------------------------:|
 | RMSE          | 4.777414	    | 4.141068                  |	4.028353                           |
 | MAE           | 2.739404	    | 1.853221                  |	1.814495                           |
 | R^2           | 0.807807	    | 0.855597	                |	0.863351                           |
 | Adjusted R^2  | 0.801880	    | 0.851144                  |	0.860175                           |
 
+<h3> 3. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/LogisticRegression/Project3.ipynb"><strong>Logistic Regression</strong></a></h3>
 
+The goal of this project is to help AllLife Bank increase their loan business by building a model to identify potential customers who are likely to purchase a personal loan. The data contains customer attributes such as age, income, education level, and whether or not they accepted a personal loan in the past. The deliverables include predicting whether a liability customer will buy a personal loan, determining which variables are most significant, and identifying which customer segment should be targeted more.
+
+#### Skills gained
+- **EDA**, **data pre-processing**, **linear regression**, **model building and evaluation**, **feature selection**
