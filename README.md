@@ -40,3 +40,10 @@ The goal of this project is to help AllLife Bank increase their loan business by
 | Recall        | 0.812081	          | 0.979866      |	
 | Precision     | 0.590244	          | 0.618644      |	
 | F1            | 0.683616	          | 0.758442      |	
+
+<h3> 4. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/EnsembleTechniques/Project4.ipynb"><strong>Ensemble Techniques</strong></a></h3>
+<h3> 5. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/FeatureSelection%26ModelTuning/Project5.ipynb"><strong>Feature Selection and Model Tuning</strong></a></h3>
+<h3> 6. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/UnsupervisedLearning/Project6.ipynb"><strong>Unsupervised Learning</strong></a></h3>
+<h3> 7. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/NeuralNetworks/Project7.ipynb"><strong>Neural Networks</strong></a></h3>
+<h3> 8. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/ComputerVision/Project8.ipynb"><strong>Computer Vision</strong></a></h3>
+<h3> 9. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/NaturalLanguageProcessing/Project9.ipynb"><strong>Natural Language Processing</strong></a></h3>
