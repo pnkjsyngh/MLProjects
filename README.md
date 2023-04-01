@@ -13,7 +13,7 @@ This project involves conducting an **Exploratory Data Analysis (EDA)** on [Card
 The project involves developing a pricing model for used cars in the Indian market to help a tech start-up called Cars4U, which aims to find footholds in this market. The [data set](https://www.kaggle.com/datasets/sukhmanibedi/cars4u) contains different attributes of used cars sold in various locations, including brand and model name, location, manufacturing year, kilometers driven, fuel type, transmission, ownership type, engine displacement, power, mileage, seats, new car price, and used car price. The project objective is to **explore and visualize the dataset**, build a **linear regression model** to predict the prices of used cars, and generate insights and recommendations to help the business. The project deliverables include a pricing model, linear regression predictions, and actionable insights and recommendations. 
 
 #### Skills gained
-- **EDA**, **data pre-processing**, **linear regression**, **model building and evaluation**, **feature selection**
+- *EDA*, *data pre-processing*, *linear regression*, *model building and evaluation*, *feature selection*
 - Tested different version of linear regression with feature modifications and selection using [SFS](https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SequentialFeatureSelector.html)
 - Delivered the model with features selected using SFS as the most accurate model based on the performance metrics shown below.
 
@@ -29,4 +29,14 @@ The project involves developing a pricing model for used cars in the Indian mark
 The goal of this project is to help AllLife Bank increase their loan business by building a model to identify potential customers who are likely to purchase a personal loan. The data contains customer attributes such as age, income, education level, and whether or not they accepted a personal loan in the past. The deliverables include predicting whether a liability customer will buy a personal loan, determining which variables are most significant, and identifying which customer segment should be targeted more.
 
 #### Skills gained
-- **EDA**, **data pre-processing**, **linear regression**, **model building and evaluation**, **feature selection**
+- *Confusion matrix*, *perfromace metrics*
+- *Decision Tree*, *Pruning*, *model performance and feature selection*
+- *Logistic regression*, *ROC-AUC curve*, *Precision-Recall curve* 
+- Delivered the models based on Logistic regression and Decision Tree, with metrics shown below.
+
+| Metrics       | Logistic Regression | Decision Tree |
+|:-------------:|:-------------------:|:-------------:|
+| Accuracy      | 0.925333	          | 0.938000      |	
+| Recall        | 0.812081	          | 0.979866      |	
+| Precision     | 0.590244	          | 0.618644      |	
+| F1            | 0.683616	          | 0.758442      |	
