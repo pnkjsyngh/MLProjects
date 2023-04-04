@@ -52,7 +52,6 @@ As a Data Scientist for "Visit with us" tourism company, the task is to analyze 
 - Delivered the models based on Ensemble techniques, with metrics shown below.
 
 
-<p align="center">
 | Metrics       | Decision Tree       | XGBoost       | Stacking |
 |:-------------:|:-------------------:|:-------------:|:--------:|
 | Accuracy      | 0.69    	          | 0.89          |	0.91     |
@@ -60,6 +59,7 @@ As a Data Scientist for "Visit with us" tourism company, the task is to analyze 
 | Precision     | 0.36    	          | 0.71          |	0.84     |
 | F1            | 0.49    	          | 0.72          |	0.76     |
 
+<p align="center">
   <img src="https://user-images.githubusercontent.com/25642673/229942295-8272d3b5-fe56-4fa2-a4e9-0f157e5c6e5d.jpg" width=50% height=50%>
 </p>
 
