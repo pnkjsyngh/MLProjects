@@ -66,9 +66,11 @@ As a Data Scientist for "Visit with us" tourism company, the task is to analyze 
 
 <h3> 5. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/FeatureSelection%26ModelTuning/Project5.ipynb"><strong>Feature Selection and Model Tuning</strong></a></h3>
 
+The Thera bank is experiencing a decline in credit card users, which is affecting their revenue. They have provided a dataset containing customer information, including demographics, financial history, and transaction data. The bank wants to identify customers who are likely to leave their credit card services and the reasons for their departure, to improve their services and retain customers. The goal of this project is to develop a classification model to predict which customers are at risk of leaving, and to identify the best model for this purpose.
 
 #### Skills gained
-- 
+
+
 <h3> 6. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/UnsupervisedLearning/Project6.ipynb"><strong>Unsupervised Learning</strong></a></h3>
 
 
