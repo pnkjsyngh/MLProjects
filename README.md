@@ -43,9 +43,21 @@ The goal of this project is to help AllLife Bank increase their loan business by
 
 <h3> 4. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/EnsembleTechniques/Project4.ipynb"><strong>Ensemble Techniques</strong></a></h3>
 
+As a Data Scientist for "Visit with us" tourism company, the task is to analyze customer data and information to provide recommendations for expanding the customer base through the introduction of a new wellness tourism package. The goal is to build a model that can predict potential customers who are likely to purchase the new offering, based on available data, to enable the company to target the right customers before they are contacted. The project aims to establish a viable business model to benefit the tourism sector by changing the ways of doing business.
 
 #### Skills gained
-- 
+- *Confusion matrix*, *recall*, *precision*, *F1-score*
+- *Decision Tree*, *Random Forest*, *Bagging*, *Boosting*, *Gradient Boosting*, *XGBoost*
+- *Hyperparameter tuning*, *Stacking classifier*, *Model Explainability*
+- Delivered the models based on Ensemble techniques, with metrics shown below.
+
+| Metrics       | Decision Tree       | XGBoost       | Stacking |
+|:-------------:|:-------------------:|:-------------:|:--------:|
+| Accuracy      | 0.69    	          | 0.89          |	0.91     |
+| Recall        | 0.76     	          | 0.74          |	0.69     |
+| Precision     | 0.36    	          | 0.71          |	0.84     |
+| F1            | 0.49    	          | 0.72          |	0.76     |
+
 <h3> 5. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/FeatureSelection%26ModelTuning/Project5.ipynb"><strong>Feature Selection and Model Tuning</strong></a></h3>
 
 
