@@ -69,6 +69,16 @@ As a Data Scientist for "Visit with us" tourism company, the task is to analyze 
 The Thera bank is experiencing a decline in credit card users, which is affecting their revenue. They have provided a dataset containing customer information, including demographics, financial history, and transaction data. The bank wants to identify customers who are likely to leave their credit card services and the reasons for their departure, to improve their services and retain customers. The goal of this project is to develop a classification model to predict which customers are at risk of leaving, and to identify the best model for this purpose.
 
 #### Skills gained
+- *Pipelines*, *Ensemble methods*
+- *Imbalanced datasets: Oversampling and Undersampling of training data*
+- *Hyperparameter tuning: Grid and Randomized search*
+- *K-Fold cross-validation*
+- *Model Explainability: Feature importance and SHAP values*
+- Delivered the models based on Gradient Boost Classifier (GBC), after comparing performance metrics over various Ensemble based models while using normal/oversampled/undersampled training data.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/25642673/229965805-bd5beddf-9f55-457d-a7be-1d8c2a7aa371.png" width=50% height=50%>
+</p>
 
 
 <h3> 6. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/UnsupervisedLearning/Project6.ipynb"><strong>Unsupervised Learning</strong></a></h3>
