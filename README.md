@@ -83,8 +83,12 @@ The Thera bank is experiencing a decline in credit card users, which is affectin
 
 <h3> 6. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/UnsupervisedLearning/Project6.ipynb"><strong>Unsupervised Learning</strong></a></h3>
 
+This project is an impactful example of unsupervised learning problem because it aims to use clustering algorithms to identify different segments of customers based on their spending patterns and past interactions with the bank, without having any pre-defined labels or target variable. The goal is to discover hidden patterns and relationships in the data that can help the bank improve its marketing and service delivery to different customer groups. The unsupervised learning techniques used in this project can have a significant impact on the bank's business outcomes by enabling more personalized and effective customer engagement strategies.
 
 #### Skills gained
+- *K-Means clustering*, *Elbow and Silhoutte plot for cluster optimization*
+- *Hierarchial clustering*, *Distance based clustering*, *Cophenactic correlation*
+- *Principal Component Analysis (PCA)*
 - 
 <h3> 7. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/NeuralNetworks/Project7.ipynb"><strong>Neural Networks</strong></a></h3>
 
