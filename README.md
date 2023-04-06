@@ -89,7 +89,13 @@ This project is an impactful example of unsupervised learning problem because it
 - *K-Means clustering*, *Elbow and Silhoutte plot for cluster optimization*
 - *Hierarchial clustering*, *Distance based clustering*, *Cophenactic correlation*
 - *Principal Component Analysis (PCA)*
-- 
+- Explored various models for clustering and optimized their performance. 
+- Used PCA to reduce the number of features followed by clustering as shown in the image below.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/25642673/230365717-42d04034-9c93-413f-a01f-f585b9d03cfb.png" width=50% height=50%>
+</p>
+
 <h3> 7. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/NeuralNetworks/Project7.ipynb"><strong>Neural Networks</strong></a></h3>
 
 
