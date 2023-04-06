@@ -97,9 +97,18 @@ This project is an impactful example of unsupervised learning problem because it
 
 <h3> 7. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/NeuralNetworks/Project7.ipynb"><strong>Neural Networks</strong></a></h3>
 
+This project is an impactful example of a neural network application in market analytics and customer prediction. It uses a dataset from Kaggle and aims to help businesses like banks address the problem of customer churn by building a neural network-based classifier to predict whether a customer will leave in the next 6 months. By analyzing customer information such as credit score, location, age, and account balance, this project can help businesses identify factors that influence customer decisions and improve their services accordingly to retain customers.
 
 #### Skills gained
-- 
+- *Neural Networks*, *TensorFlow*
+- *Batch Normalization*, *Regularization*, *Dropout layers*, *Imbalanced data: Under/Over sampling*
+- *Hyperparameter optimization*, *Performance metrics*, *$F_{\beta}$*
+- Delivered a NN model based on dropout layers and L2 regularization
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/25642673/230371095-6884ded5-d1fd-4afb-9361-074adc392009.jpg" width=50% height=50%>  
+  <img src="https://user-images.githubusercontent.com/25642673/230371860-fcc77f0b-922d-4926-8edf-fbae46bc482d.jpg" width=50% height=50%>
+</p>
 <h3> 8. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/ComputerVision/Project8.ipynb"><strong>Computer Vision</strong></a></h3>
 
 
