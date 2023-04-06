@@ -102,8 +102,8 @@ This project is an impactful example of a neural network application in market a
 #### Skills gained
 - *Neural Networks*, *TensorFlow*
 - *Batch Normalization*, *Regularization*, *Dropout layers*, *Imbalanced data: Under/Over sampling*
-- *Hyperparameter optimization*, *Performance metrics*, *$F_{\beta}$*
-- Delivered a NN model based on dropout layers and L2 regularization
+- *Hyperparameter optimization*, *Performance metrics*, $F_\beta$ *score*
+- Delivered a NN model using dropout layers and L2 regularization with the best $F_\beta$ score = 0.656. The model performance and explainability is shown below.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25642673/230371095-6884ded5-d1fd-4afb-9361-074adc392009.jpg" width=50% height=50%>  
