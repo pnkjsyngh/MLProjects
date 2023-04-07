@@ -111,9 +111,17 @@ This project is an impactful example of a neural network application in market a
 </p>
 <h3> 8. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/ComputerVision/Project8.ipynb"><strong>Computer Vision</strong></a></h3>
 
+As a data scientist with expertise in computer vision, we have been tasked with a highly impactful project in the field of agriculture. The mission is to utilize deep learning techniques and convolutional neural networks to build a model that can classify images of plant seedlings into 12 distinct species. This application of computer vision has the potential to revolutionize the trillion-dollar agricultural industry by greatly reducing the amount of manual labor required for plant recognition, resulting in increased crop yields, more sustainable practices, and the freeing up of valuable human resources for higher-level decision making.
 
 #### Skills gained
-- 
+- *CNN*, *Data Augmentation*
+- *Transfer learning*
+- After comparing various CNN architecture, we delivered a performance of 86% accuracy in a model based on data augmentation.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/25642673/230534171-01cbf185-9a13-4e9c-8c84-8519ed308212.png" width=50% height=50%>  
+</p>
+
 <h3> 9. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/NaturalLanguageProcessing/Project9.ipynb"><strong>Natural Language Processing</strong></a></h3>
 
 
