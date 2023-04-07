@@ -1,5 +1,7 @@
 # Projects done as the part of [*PGPAIML* @ UT Austin](https://la.utexas.edu/texasexeced/digitalVerification.html?key=cNbNF)
 
+The objective of this portfolio is to demonstrate the application of AI and machine learning techniques to real-world business problems, such as fraud detection, customer segmentation, and demand forecasting. The projects covers topics such as data analysis, machine learning models, deep learning, natural language processing, and computer vision. 
+
 
 <h3> 1. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/EDA/Project1.ipynb"><strong>Exploratory Data Analysis</strong></a></h3>
 
