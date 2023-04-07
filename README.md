@@ -124,6 +124,13 @@ As a data scientist with expertise in computer vision, we have been tasked with 
 
 <h3> 9. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/NaturalLanguageProcessing/Project9.ipynb"><strong>Natural Language Processing</strong></a></h3>
 
+This project involves sentiment analysis on tweets about major U.S. airlines, with the aim of identifying negative mentions and reasons for negative sentiment. The project uses natural language processing (NLP) techniques to preprocess, vectorize, and classify the tweets. The application of sentiment analysis in social media marketing is an impactful example of NLP, as it allows companies to quickly and efficiently monitor customer sentiment and respond appropriately to negative mentions.
 
 #### Skills gained
-- 
+- *Text cleaning*, *Tokenization*, *Dataset creation using Countvectorizer and TF-IDF*
+- *Sentiment classification using Ensemble techniques*
+- Delivered a model with XGBoost created input dataset using Countvectorizer. This model delivered an accuracy of 80% in sentiment classification.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/25642673/230536351-d89c17ec-30d0-42cc-91ca-75f8e2cf258d.png" width=50% height=50%>  
+</p>
