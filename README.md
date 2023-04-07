@@ -1,4 +1,5 @@
-# Machine Learning Projects
+# Projects done as the part of [*PGPAIML* @ UT Austin](https://la.utexas.edu/texasexeced/digitalVerification.html?key=cNbNF)
+
 
 <h3> 1. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/EDA/Project1.ipynb"><strong>Exploratory Data Analysis</strong></a></h3>
 
