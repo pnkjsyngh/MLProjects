@@ -1,6 +1,6 @@
 # Projects done as the part of [*PGPAIML* @ UT Austin](https://la.utexas.edu/texasexeced/digitalVerification.html?key=cNbNF)
 
-
+The repository contains a range of projects, from beginner to advanced level, covering various topics such as data analysis, classification, regression, and deep learning. The projects are implemented using popular machine learning libraries such as scikit-learn, TensorFlow, and Keras. Each project is presented in a Jupyter Notebook format and includes a description of the problem, data sources, and detailed instructions on how to implement the solution. The repository provides a valuable resource for anyone looking to learn and practice machine learning techniques.
 
 <h3> 1. <a href="https://nbviewer.org/github/pnkjsyngh/MLProjects/blob/main/EDA/Project1.ipynb"><strong>Exploratory Data Analysis</strong></a></h3>
 
